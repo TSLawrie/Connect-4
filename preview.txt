@@ -1,0 +1,68 @@
+Welcome to Connect 4 for Terminal!
+Here is the board you'll be playing with:
+
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+ 1  2  3  4  5  6  7
+
+You'll play against a bot, taking it in turns to place your checkers in colums 1 to 7.
+The slots you fill with checkers will be represented by an 'x' and the ones the bot fills with an 'o'.
+Have fun!
+--------------------
+Player turn:
+
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+ 1  2  3  4  5  6  7
+
+Please enter the column you would like to put your checker in (1-7): 3
+--------------------
+Bot turn:
+
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][x][ ][ ][ ][ ]
+ 1  2  3  4  5  6  7
+
+Column selected: #
+--------------------
+***
+***
+***
+***
+***
+***
+***
+***
+etc
+--------------------
+Congratulations, you won!
+
+[ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][x][ ][ ][ ]
+[ ][ ][x][o][ ][ ][ ]
+[o][x][x][o][x][ ][ ]
+[o][o][x][o][o][x][ ]
+[o][o][x][x][x][o][x]
+ 1  2  3  4  5  6  7
+
+
+Index Grid:
+[ 0][ 1][ 2][ 3][ 4][ 5][ 6]
+[ 7][ 8][ 9][10][11][12][13]
+[14][15][16][17][18][19][20]
+[21][22][23][24][25][26][27]
+[28][29][30][31][32][33][34]
+[35][36][37][38][39][40][41]
+  1   2   3   4   5   6   7
